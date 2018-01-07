@@ -1,0 +1,21 @@
+.skills{
+    display: flex;
+}
+.skillTitle{
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    font-weight: 600;
+}
+.table{
+    padding-left: 1.7rem;
+}
+.button-addSkill{
+    background-color: $greenLight;
+    padding: 1.5rem 2rem; 
+    margin-right: 2rem;
+}
+.input-addSkill{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border:none;
+}

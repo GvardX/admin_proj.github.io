@@ -1,0 +1,19 @@
+.input-block{
+    display: flex;
+    flex-direction: column;
+    max-width: 50rem;
+}
+.addNote, .input-blog{
+    margin-bottom: 2rem;
+}
+.addNote{
+    font-weight: 600;
+}
+
+.input-textarea{
+    height: 16.6rem;
+    margin-bottom: 3rem;
+}
+.button-blog{
+    background-color: $greenLight;
+}

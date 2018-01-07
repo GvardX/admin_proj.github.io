@@ -1,0 +1,23 @@
+.tabs{
+    background-color: $beige
+}
+.tabs-list{
+    display: flex;
+}
+.tabs-item{
+   
+    border-right: 0.3rem solid $white;
+}
+.tabs-link{
+    color: $grey;
+    text-transform: uppercase;
+    height: 100%;
+    display: block;
+    padding: 2.4rem 6.8rem;
+    font-weight: 600;
+    opacity: 0.8;
+}
+.active-tab{
+    background-color: #fff;
+    color: $greenLight;
+}
